@@ -312,7 +312,7 @@ nav {
 }
 /* MAIN  */
 main, .main{
-    margin-top: 75px;
+    margin-top: 52px;
     display: flex;
     margin-left: 240px;
     z-index: 999;
@@ -323,7 +323,7 @@ main, .main{
 }
 .main .container{
     background: rgb(14, 231, 7);
-    padding: 0px 20px 0;
+    padding: 25px 20px 0;
 }
 .wrapper{
     display: grid !important;
@@ -348,7 +348,11 @@ main, .main{
     color: #ffff;
     line-height: 1.2rem;
     margin-left: -80px !important;
-    
+}
+.vid-img-underneath h6 svg{
+    height: 27px !important;
+    float: right;
+    transform: translateY(-20px);
 }
 .vid-img-underneath .channel-info{
     grid-column: 2/2;
