@@ -18,7 +18,7 @@ i like adding these odd colors and outline during a project to help me to actual
 ![Screenshot (28)](https://user-images.githubusercontent.com/71198309/154721092-091dace6-d6e0-4c23-8c28-c3fce23c5876.png)
 
 # Finished product
-This project was hard at first but I'm happy i approached the challenge the way I did , i dont even know how i was able to make this project as clean as it is, I muist say ,   I'm very proud of myself and as time goes oI hope to improve  better in this journey of becoming a FULL-STACK DEV
+This project was hard at first but I'm happy i approached the challenge the way I did , i dont even know how i was able to make this project as clean as it is, I must say ,   I'm very proud of myself and as time goes on hope to improve  better in this journey of becoming a FULL-STACK DEV
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/71198309/154721684-ee89f104-2064-452d-8494-c31b1a90c184.png)
 
