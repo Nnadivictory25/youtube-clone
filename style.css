@@ -467,7 +467,7 @@ main, .main{
 
 
 
-@media (min-width: 350px) and (max-width:650px){
+@media (min-width: 355px) and (max-width:650px){
     .wrapper{
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 1em;
@@ -479,18 +479,18 @@ main, .main{
     .my-nav svg{
         cursor: pointer !important;
         display: block;
-        transform: translateX(275px);
+        transform: translateX(17.1875rem);
     }
     .navbar-brand{
-        margin-left: -53px !important;
+        margin-left: -3.3125rem !important;
         align-items: center;
         transform: translateY(50%, -50%);
     }
     .my-nav .rec-icon img{
         border-radius: 50%;
-        height: 24px;
+        height: 1.5rem;
         display: block;
-        transform: translateX(114px);
+        transform: translateX(7.125rem);
     }
     .second-nav nav ul li {
         margin-left: 22px;
@@ -550,7 +550,7 @@ main, .main{
         grid-column: 1;
     }
     .vid-img-underneath h6{
-        transform: translateX(-2rem);
+        transform: translateX(-2.5rem);
         float: left;
     }
     .vid-img-underneath .channel-info p{
@@ -562,7 +562,7 @@ main, .main{
     .vid-img-underneath .channel-info div{
         display: block;
         float: left;
-        transform: translateX(-2rem);
+        transform: translateX(-2.5rem);
         margin-top: -10px !important;
     }
     main, .main{
