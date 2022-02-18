@@ -8,7 +8,9 @@ link to preview -- https://victory-youtube-clone.netlify.app
 ![Screenshot (25)](https://user-images.githubusercontent.com/71198309/154720811-0600824a-fe39-4c91-a7e1-a39ccde0e17d.png)
 
 # Process two
-i like adding these odd colors and outline during a project to help me with actually know how and where each element is positioned
+i like adding these odd colors and outline during a project to help me to actually know how and where each element is positioned
+
+
 ![Screenshot (27)](https://user-images.githubusercontent.com/71198309/154721051-ca1262b4-bba0-4ad9-9ca2-e73c516673f0.png)
 ![Screenshot (28)](https://user-images.githubusercontent.com/71198309/154721092-091dace6-d6e0-4c23-8c28-c3fce23c5876.png)
 
