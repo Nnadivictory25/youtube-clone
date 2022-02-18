@@ -11,7 +11,10 @@ link to preview -- https://victory-youtube-clone.netlify.app
 i like adding these odd colors and outline during a project to help me to actually know how and where each element is positioned
 
 
+
 ![Screenshot (27)](https://user-images.githubusercontent.com/71198309/154721051-ca1262b4-bba0-4ad9-9ca2-e73c516673f0.png)
+
+
 ![Screenshot (28)](https://user-images.githubusercontent.com/71198309/154721092-091dace6-d6e0-4c23-8c28-c3fce23c5876.png)
 
 # Finished product
@@ -21,4 +24,7 @@ This project was hard at first but I'm happy i approached the challenge the way 
 
 # Mobile view
 Yea i made it responsive too (tried my best ...)
+
+
+
 ![Screenshot (31)](https://user-images.githubusercontent.com/71198309/154721808-e593d618-041c-47b1-a890-8cbd98c19c96.png)
