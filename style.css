@@ -471,6 +471,7 @@ main, .main{
 
 
 /* LETS GET THIS RESPONSIVE !! */
+
 @media (min-width: 355px) and (max-width:480px){
     .wrapper{
         grid-template-columns: repeat(1, 1fr);
