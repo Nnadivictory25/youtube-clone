@@ -27,5 +27,8 @@ Yea i made it responsive too (tried my best ...)
 
 
 
-![Screenshot (32)](https://user-images.githubusercontent.com/71198309/154722909-19e61249-caf5-4c1c-a491-44a704d29dbf.png)
+
+
+
+![Screenshot (33)](https://user-images.githubusercontent.com/71198309/154726060-bc6fdbb4-098c-48fd-89aa-c2066872a65d.png)
 
