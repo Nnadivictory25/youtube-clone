@@ -293,6 +293,10 @@ nav {
     padding-left: 15px;
 }
 
+/* base navbar for mobile only */
+.base-nav{
+    display: none;      /* to hide for mobile */
+}
 
 /* live icon  */
 
@@ -467,7 +471,7 @@ main, .main{
 
 
 
-@media (min-width: 355px) and (max-width:650px){
+@media (min-width: 355px) and (max-width:480px){
     .wrapper{
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 1em;
@@ -538,6 +542,42 @@ main, .main{
     }
     .side-bar{
         display: none;
+    }
+    .base-nav{
+        display: flex !important;
+        bottom: 0 !important;
+        right: 0;
+        position: fixed;
+        width: 100% !important;
+        z-index: 99999;
+        /* height: 38px !important; */
+    }
+    .base-nav svg{
+        height: 23px !important;
+    }
+    svg.plus{
+        border: 1px solid #000 !important;
+        height: 37px !important;
+        width: 40px;
+        border-radius: 50%;
+        font-family: 200 !important;
+    }
+    .base-nav .list-text{
+        font-size: 13px;
+    }
+    .base-nav ul{
+        display: flex;
+        background: #fff;
+        width: 100%;
+        margin-bottom: 0;
+        text-align: center;
+        align-items: center; 
+    }
+    .base-nav ul li{
+       margin-top: 2.2px;
+    }
+    .base-nav ul li:not(:last-child){
+        margin-right: 27px;
     }
     .vid-img-underneath{
         display: grid !important;
