@@ -1,7 +1,7 @@
 # YouTube-Clone
 
 my youtube clone project 
-link to preview -- https://victory-youtube-clone.netlify.app
+link to preview -- https://youtube-clone-alpha-six.vercel.app/
 
 # Process 1
 
